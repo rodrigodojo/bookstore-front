@@ -1,0 +1,9 @@
+.container{
+    height: 85%;
+    background-color: rgb(147, 189, 252);
+}
+
+i{
+    padding-right: .4rem;
+    color: rgb(147, 189, 252);
+}
